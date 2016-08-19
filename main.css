@@ -1,0 +1,47 @@
+* {
+    font-size: 100%;
+}
+
+img {
+    width: 100%;
+    padding: 0px;
+}
+
+#Main_title {
+    text-align: center;
+    text-shadow: 8px 5px 8px black;
+    font-size: 6em;
+    position: relative;
+    top: -42px;
+    
+}
+
+.row {
+    background-color: darkred;
+}
+
+#mario_photo {
+    padding:0
+}
+
+.table {
+    color:black;
+}
+
+#deets {
+    text-align: left;
+}
+
+#table {
+    background-color:gainsboro;
+    
+}
+
+table img {
+    width: 100px;
+    height: 74px;
+}
+
+#footer {
+    text-align: center
+}
