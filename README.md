@@ -1,0 +1,1 @@
+This project is an exercise in using Bootstrap grid system. Additionally, there is practice in using JS to get elements from the html and updating the DOM. 
